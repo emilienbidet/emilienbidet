@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emilien</h1>
+# Hi <img src="https://raw.githubusercontent.com/emilienbidet/emilienbidet/main/hi.gif" width="30px">, I'm Emilien
+
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilienbidet&label=Profile%20views&color=0e75b6&style=flat" alt="emilienbidet" /> </p>

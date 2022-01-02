@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript, React JS**
 
-- 📫 How to reach me **contact@emilienbidet.fr**
+- 📫 How to reach me **emilienbdt@gmail.com**
 
 - ⚡ Fun fact **Living life in short**
 

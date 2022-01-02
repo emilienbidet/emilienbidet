@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [emilienbidet.fr](emilienbidet.fr)
+- 👨‍💻 All of my projects are available at [emilienbidet.dev](emilienbidet.dev)
 
 - 💬 Ask me about **Javascript, React JS**
 
